@@ -3,7 +3,7 @@
  */
 
 * {
-    border: 1px solid red !important;
+    border: 0px solid red !important;
 }
 
 * {
@@ -16,6 +16,16 @@
 * {
     font-family: 'Poppins', sans-serif;
 }
+
+h1,
+h3, {
+	color: #747704
+}
+
+h2 {
+	color: #BCBBBB
+}
+
 img, embed, object, video {
      max-width: 100%;
 }
